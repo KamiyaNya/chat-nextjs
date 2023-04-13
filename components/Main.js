@@ -59,6 +59,7 @@ export default function Main() {
 					<ChatContent />
 				</motion.div>
 			</Box>
+			
 		</div>
 	);
 }
